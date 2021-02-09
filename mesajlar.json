@@ -1,0 +1,27 @@
+[
+  {
+    "isim": "Steve Jobs",
+    "mesaj": "Selam Bill Nasılsın?",
+    "resim": "steveJobs.jpg",
+    "saat": "00:18 AM",
+    "suskun": "hayir",
+    "tik": "cift"
+  },
+  {
+    "isim": "Nikola Tesla",
+    "mesaj": "1 saat önce aktifti.",
+    "resim": "nikolaTesla.jpg",
+    "saat": "05:52 PM",
+    "suskun": "evet",
+    "tik": "tek"
+  },
+  {
+    "isim": "Ada Lovelace",
+    "mesaj": "Bir Ses Klibi Gönderdi.",
+    "resim": "adaLovelace.jpg",
+    "saat": "03:37 PM",
+    "suskun": "hayir",
+    "ses": "merhaba.mp3"
+    "tik": "yok"
+  }
+]
